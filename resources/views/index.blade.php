@@ -333,7 +333,108 @@
 
             </div>
             <div class="most-anticipated w-1/4 mr-32">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias amet, aperiam aut deserunt distinctio dolorem explicabo impedit iste itaque magni minima nesciunt nihil perspiciatis ratione reiciendis sed suscipit tenetur voluptatum!
+                <h2 class="h2 text-blue-500 uppercase tracking-wide font-semibold">Most Aticipated</h2>
+                <div class="most-anticipated-container space-y-10 mt-8">
+                    <div class="game flex">
+                        <a href="#">
+                            <img
+                                src="/ff7.jpg"
+                                alt=""
+                                class="w-16 hover:opacity-75 transition ease-in-out duration-150">
+                        </a>
+                        <div class="ml-4">
+                            <a href="" class="hover:text-gray-300">Final Fantasy 7</a>
+                            <div class="text-gray-400 text-sm mt-1">Sept 16, 2020</div>
+                        </div>
+                    </div>
+                    <div class="game flex">
+                        <a href="#">
+                            <img
+                                src="/ff7.jpg"
+                                alt=""
+                                class="w-16 hover:opacity-75 transition ease-in-out duration-150">
+                        </a>
+                        <div class="ml-4">
+                            <a href="" class="hover:text-gray-300">Final Fantasy 7</a>
+                            <div class="text-gray-400 text-sm mt-1">Sept 16, 2020</div>
+                        </div>
+                    </div>
+                    <div class="game flex">
+                        <a href="#">
+                            <img
+                                src="/ff7.jpg"
+                                alt=""
+                                class="w-16 hover:opacity-75 transition ease-in-out duration-150">
+                        </a>
+                        <div class="ml-4">
+                            <a href="" class="hover:text-gray-300">Final Fantasy 7</a>
+                            <div class="text-gray-400 text-sm mt-1">Sept 16, 2020</div>
+                        </div>
+                    </div>
+                    <div class="game flex">
+                        <a href="#">
+                            <img
+                                src="/ff7.jpg"
+                                alt=""
+                                class="w-16 hover:opacity-75 transition ease-in-out duration-150">
+                        </a>
+                        <div class="ml-4">
+                            <a href="" class="hover:text-gray-300">Final Fantasy 7</a>
+                            <div class="text-gray-400 text-sm mt-1">Sept 16, 2020</div>
+                        </div>
+                    </div>
+                </div>
+                <h2 class="h2 text-blue-500 uppercase tracking-wide font-semibold mt-8">Coming Soon</h2>
+                <div class="most-anticipated-container space-y-10 mt-8">
+                    <div class="game flex">
+                        <a href="#">
+                            <img
+                                src="/ff7.jpg"
+                                alt=""
+                                class="w-16 hover:opacity-75 transition ease-in-out duration-150">
+                        </a>
+                        <div class="ml-4">
+                            <a href="" class="hover:text-gray-300">Final Fantasy 7</a>
+                            <div class="text-gray-400 text-sm mt-1">Sept 16, 2020</div>
+                        </div>
+                    </div>
+                    <div class="game flex">
+                        <a href="#">
+                            <img
+                                src="/ff7.jpg"
+                                alt=""
+                                class="w-16 hover:opacity-75 transition ease-in-out duration-150">
+                        </a>
+                        <div class="ml-4">
+                            <a href="" class="hover:text-gray-300">Final Fantasy 7</a>
+                            <div class="text-gray-400 text-sm mt-1">Sept 16, 2020</div>
+                        </div>
+                    </div>
+                    <div class="game flex">
+                        <a href="#">
+                            <img
+                                src="/ff7.jpg"
+                                alt=""
+                                class="w-16 hover:opacity-75 transition ease-in-out duration-150">
+                        </a>
+                        <div class="ml-4">
+                            <a href="" class="hover:text-gray-300">Final Fantasy 7</a>
+                            <div class="text-gray-400 text-sm mt-1">Sept 16, 2020</div>
+                        </div>
+                    </div>
+                    <div class="game flex">
+                        <a href="#">
+                            <img
+                                src="/ff7.jpg"
+                                alt=""
+                                class="w-16 hover:opacity-75 transition ease-in-out duration-150">
+                        </a>
+                        <div class="ml-4">
+                            <a href="" class="hover:text-gray-300">Final Fantasy 7</a>
+                            <div class="text-gray-400 text-sm mt-1">Sept 16, 2020</div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
