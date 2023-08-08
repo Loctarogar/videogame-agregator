@@ -252,6 +252,91 @@
                 <div class="text-gray-400 mt-1">Playstation 4</div>
             </div>
         </div>
+        <div class="flex my-10">
+            <div class="recently-reviewed w-3/4 mr-32">
+                <h2 class="h2 text-blue-500 uppercase tracking-wide font-semibold">Resetly reviewed</h2>
+                <div class="recently-reviewed-container space-y-12 mt-8">
+                    <div class="game bg-gray-800 rounded-lg shadow-md flex px-6 py-6">
+                        <div class="relative flex-none">
+                            <a href="#">
+                                <img src="/ff7.jpg" alt="" class="w-48 hover:opacity-75 transition ease-in-out duration-150">
+                            </a>
+                            <div
+                                class="absolute bottom-0 right-0 w-16 h-16 bg-gray-900 rounded-full"
+                                style="right:-20px; bottom: -20px"
+                            >
+                                <div class="font-semibold text-xs flex justify-center items-center h-full">
+                                    80%
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ml-12">
+                            <a href="#" class="block text-lg font-semibod leading-tight hover:text-gray-400 mt-4">
+                                Final Fantasy 7 Remake
+                            </a>
+                            <div class="text-gray-400 mt-1">Playstation 4</div>
+                            <p class="mt-6 text-gray-400">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci aliquid asperiores deleniti dolore eius ipsam, laboriosam mollitia, nam nihil odio omnis quam quod rem reprehenderit rerum tempora tenetur veritatis!
+                            </p>
+                        </div>
+                    </div>
+                    <div class="game bg-gray-800 rounded-lg shadow-md flex px-6 py-6">
+                        <div class="relative flex-none">
+                            <a href="#">
+                                <img src="/ff7.jpg" alt="" class="w-48 hover:opacity-75 transition ease-in-out duration-150">
+                            </a>
+                            <div
+                                class="absolute bottom-0 right-0 w-16 h-16 bg-gray-900 rounded-full"
+                                style="right:-20px; bottom: -20px"
+                            >
+                                <div class="font-semibold text-xs flex justify-center items-center h-full">
+                                    80%
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ml-12">
+                            <a href="#" class="block text-lg font-semibod leading-tight hover:text-gray-400 mt-4">
+                                Final Fantasy 7 Remake
+                            </a>
+                            <div class="text-gray-400 mt-1">Playstation 4</div>
+                            <p class="mt-6 text-gray-400">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci aliquid asperiores deleniti dolore eius ipsam, laboriosam mollitia, nam nihil odio omnis quam quod rem reprehenderit rerum tempora tenetur veritatis!
+                            </p>
+                        </div>
+                    </div>
+                    <div class="game bg-gray-800 rounded-lg shadow-md flex px-6 py-6">
+                        <div class="relative flex-none">
+                            <a href="#">
+                                <img src="/ff7.jpg" alt="" class="w-48 hover:opacity-75 transition ease-in-out duration-150">
+                            </a>
+                            <div
+                                class="absolute bottom-0 right-0 w-16 h-16 bg-gray-900 rounded-full"
+                                style="right:-20px; bottom: -20px"
+                            >
+                                <div class="font-semibold text-xs flex justify-center items-center h-full">
+                                    80%
+                                </div>
+                            </div>
+                        </div>
+                        <div class="ml-12">
+                            <a href="#" class="block text-lg font-semibod leading-tight hover:text-gray-400 mt-4">
+                                Final Fantasy 7 Remake
+                            </a>
+                            <div class="text-gray-400 mt-1">Playstation 4</div>
+                            <p class="mt-6 text-gray-400">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci aliquid asperiores deleniti dolore eius ipsam, laboriosam mollitia, nam nihil odio omnis quam quod rem reprehenderit rerum tempora tenetur veritatis!
+                            </p>
+                        </div>
+                    </div>
 
+                </div>
+
+            </div>
+            <div class="most-anticipated w-1/4 mr-32">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias amet, aperiam aut deserunt distinctio dolorem explicabo impedit iste itaque magni minima nesciunt nihil perspiciatis ratione reiciendis sed suscipit tenetur voluptatum!
+            </div>
+        </div>
     </div>
+
+
 @endsection
